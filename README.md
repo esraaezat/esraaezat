@@ -1,4 +1,5 @@
 this task about the principal of git and github and add image to readme file
 
 
-علبة20%عصير.jpg
+
+images/علبة%20عصير.jpg
